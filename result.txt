@@ -1,0 +1,1962 @@
+_______________________________________ Monday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Rose is a daily flower, it blossoms
+As it is sunrise and Matiola is not a daily flower, it closes
+As it is sunrise and Sunflower is a daily flower, it blossoms
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Tulip is a daily flower, it blossoms
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Rose
+Bee visits Sunflower
+Bee visits Tulip
+Bee visits Peoni
+Bee visits Lyli
+Sun: Morning
+As it is morning and Rose is a daily flower, it closes petals because of heat
+As it is morning and Matiola is not a daily flower, its petals are still closed
+As it is morning and Sunflower is a daily flower, it closes petals because of heat
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+As it is morning and Tulip is a daily flower, it closes petals because of heat
+As it is morning and Iris is not a daily flower, its petals are still closed
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Rose is a daily flower, it blossoms
+As it is sunset and Matiola is not a daily flower, its petals are still closed
+As it is sunset and Sunflower is a daily flower, it blossoms
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Tulip is a daily flower, it blossoms
+As it is sunset and Iris is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes for a walk
+Julia visits Rose, sniffed it and took a photo
+Julia visits Sunflower, sniffed it and took a photo
+Julia visits Tulip, sniffed it and took a photo
+Julia visits Peoni, sniffed it and took a photo
+Julia visits Lyli, sniffed it and took a photo
+Sun: Evening
+As it is evening and Rose is a daily flower, it closes
+As it is evening and Matiola is not a daily flower, it blossoms
+As it is evening and Sunflower is a daily flower, it closes
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Tulip is a daily flower, it closes
+As it is evening and Iris is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Matiola
+Night butterfly visits Moonflower
+Night butterfly visits Iris
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+Julia goes home
+_______________________________________ Tuesday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Rose is a daily flower, it blossoms
+As it is sunrise and Matiola is not a daily flower, it closes
+As it is sunrise and Sunflower is a daily flower, it blossoms
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Tulip is a daily flower, it blossoms
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Rose
+Bee visits Sunflower
+Bee visits Tulip
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes for a walk
+Julia visits Rose, sniffed it and took a photo
+Julia visits Sunflower, sniffed it and took a photo
+Julia visits Tulip, sniffed it and took a photo
+Julia visits Peoni, sniffed it and took a photo
+Julia visits Lyli, sniffed it and took a photo
+Sun: Morning
+As it is morning and Rose is a daily flower, it closes petals because of heat
+As it is morning and Matiola is not a daily flower, its petals are still closed
+As it is morning and Sunflower is a daily flower, it closes petals because of heat
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+As it is morning and Tulip is a daily flower, it closes petals because of heat
+As it is morning and Iris is not a daily flower, its petals are still closed
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Rose is a daily flower, it blossoms
+As it is sunset and Matiola is not a daily flower, its petals are still closed
+As it is sunset and Sunflower is a daily flower, it blossoms
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Tulip is a daily flower, it blossoms
+As it is sunset and Iris is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes home
+Sun: Evening
+As it is evening and Rose is a daily flower, it closes
+As it is evening and Matiola is not a daily flower, it blossoms
+As it is evening and Sunflower is a daily flower, it closes
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Tulip is a daily flower, it closes
+As it is evening and Iris is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Matiola
+Night butterfly visits Moonflower
+Night butterfly visits Iris
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+_______________________________________ Wednesday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Rose is a daily flower, it blossoms
+As it is sunrise and Matiola is not a daily flower, it closes
+As it is sunrise and Sunflower is a daily flower, it blossoms
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Tulip is a daily flower, it blossoms
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Rose
+Bee visits Sunflower
+Bee visits Tulip
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes for a walk
+Julia visits Rose, sniffed it and took a photo
+Julia visits Sunflower, sniffed it and took a photo
+Julia visits Tulip, sniffed it and took a photo
+Julia visits Peoni, sniffed it and took a photo
+Julia visits Lyli, sniffed it and took a photo
+Sun: Morning
+As it is morning and Rose is a daily flower, it closes petals because of heat
+As it is morning and Matiola is not a daily flower, its petals are still closed
+As it is morning and Sunflower is a daily flower, it closes petals because of heat
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+As it is morning and Tulip is a daily flower, it closes petals because of heat
+As it is morning and Iris is not a daily flower, its petals are still closed
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Rose is a daily flower, it blossoms
+As it is sunset and Matiola is not a daily flower, its petals are still closed
+As it is sunset and Sunflower is a daily flower, it blossoms
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Tulip is a daily flower, it blossoms
+As it is sunset and Iris is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes home
+Sun: Evening
+As it is evening and Rose is a daily flower, it closes
+As it is evening and Matiola is not a daily flower, it blossoms
+As it is evening and Sunflower is a daily flower, it closes
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Tulip is a daily flower, it closes
+As it is evening and Iris is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Matiola
+Night butterfly visits Moonflower
+Night butterfly visits Iris
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+_______________________________________ Thursday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Rose is a daily flower, it blossoms
+As it is sunrise and Matiola is not a daily flower, it closes
+As it is sunrise and Sunflower is a daily flower, it blossoms
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Tulip is a daily flower, it blossoms
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Rose
+Bee visits Sunflower
+Bee visits Tulip
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes for a walk
+Julia visits Rose, sniffed it and took a photo
+Julia visits Sunflower, sniffed it and took a photo
+Julia visits Tulip, sniffed it and took a photo
+Julia visits Peoni, sniffed it and took a photo
+Julia visits Lyli, sniffed it and took a photo
+Sun: Morning
+As it is morning and Rose is a daily flower, it closes petals because of heat
+As it is morning and Matiola is not a daily flower, its petals are still closed
+As it is morning and Sunflower is a daily flower, it closes petals because of heat
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+As it is morning and Tulip is a daily flower, it closes petals because of heat
+As it is morning and Iris is not a daily flower, its petals are still closed
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Rose is a daily flower, it blossoms
+As it is sunset and Matiola is not a daily flower, its petals are still closed
+As it is sunset and Sunflower is a daily flower, it blossoms
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Tulip is a daily flower, it blossoms
+As it is sunset and Iris is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes home
+Sun: Evening
+As it is evening and Rose is a daily flower, it closes
+As it is evening and Matiola is not a daily flower, it blossoms
+As it is evening and Sunflower is a daily flower, it closes
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Tulip is a daily flower, it closes
+As it is evening and Iris is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Matiola
+Night butterfly visits Moonflower
+Night butterfly visits Iris
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+_______________________________________ Friday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Rose is a daily flower, it blossoms
+As it is sunrise and Matiola is not a daily flower, it closes
+As it is sunrise and Sunflower is a daily flower, it blossoms
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Tulip is a daily flower, it blossoms
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Rose
+Bee visits Sunflower
+Bee visits Tulip
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes for a walk
+Julia visits Rose, sniffed it and took a photo
+Julia visits Sunflower, sniffed it and took a photo
+Julia visits Tulip, sniffed it and took a photo
+Julia visits Peoni, sniffed it and took a photo
+Julia visits Lyli, sniffed it and took a photo
+Sun: Morning
+As it is morning and Rose is a daily flower, it closes petals because of heat
+As it is morning and Matiola is not a daily flower, its petals are still closed
+As it is morning and Sunflower is a daily flower, it closes petals because of heat
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+As it is morning and Tulip is a daily flower, it closes petals because of heat
+As it is morning and Iris is not a daily flower, its petals are still closed
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Rose is a daily flower, it blossoms
+As it is sunset and Matiola is not a daily flower, its petals are still closed
+As it is sunset and Sunflower is a daily flower, it blossoms
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Tulip is a daily flower, it blossoms
+As it is sunset and Iris is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes home
+Sun: Evening
+As it is evening and Rose is a daily flower, it closes
+As it is evening and Matiola is not a daily flower, it blossoms
+As it is evening and Sunflower is a daily flower, it closes
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Tulip is a daily flower, it closes
+As it is evening and Iris is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Matiola
+Night butterfly visits Moonflower
+Night butterfly visits Iris
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+_______________________________________ Saturday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Rose is a daily flower, it blossoms
+As it is sunrise and Matiola is not a daily flower, it closes
+As it is sunrise and Sunflower is a daily flower, it blossoms
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Tulip is a daily flower, it blossoms
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Rose
+Bee visits Sunflower
+Bee visits Tulip
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Sun: Morning
+As it is morning and Rose is a daily flower, it closes petals because of heat
+As it is morning and Matiola is not a daily flower, its petals are still closed
+As it is morning and Sunflower is a daily flower, it closes petals because of heat
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+As it is morning and Tulip is a daily flower, it closes petals because of heat
+As it is morning and Iris is not a daily flower, its petals are still closed
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Rose is a daily flower, it blossoms
+As it is sunset and Matiola is not a daily flower, its petals are still closed
+As it is sunset and Sunflower is a daily flower, it blossoms
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Tulip is a daily flower, it blossoms
+As it is sunset and Iris is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Sun: Evening
+As it is evening and Rose is a daily flower, it closes
+As it is evening and Matiola is not a daily flower, it blossoms
+As it is evening and Sunflower is a daily flower, it closes
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Tulip is a daily flower, it closes
+As it is evening and Iris is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Matiola
+Night butterfly visits Moonflower
+Night butterfly visits Iris
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+Julia goes for a walk
+Julia visits Matiola, sniffed it and took a photo
+Julia visits Moonflower, sniffed it and took a photo
+Julia visits Iris, sniffed it and took a photo
+Julia visits Lotus, sniffed it and took a photo
+Julia visits Orchid, sniffed it and took a photo
+_______________________________________ Sunday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Rose is a daily flower, it blossoms
+As it is sunrise and Matiola is not a daily flower, it closes
+As it is sunrise and Sunflower is a daily flower, it blossoms
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Tulip is a daily flower, it blossoms
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Rose
+Bee visits Sunflower
+Bee visits Tulip
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes home
+Sun: Morning
+As it is morning and Rose is a daily flower, it closes petals because of heat
+As it is morning and Matiola is not a daily flower, its petals are still closed
+As it is morning and Sunflower is a daily flower, it closes petals because of heat
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+As it is morning and Tulip is a daily flower, it closes petals because of heat
+As it is morning and Iris is not a daily flower, its petals are still closed
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Rose is a daily flower, it blossoms
+As it is sunset and Matiola is not a daily flower, its petals are still closed
+As it is sunset and Sunflower is a daily flower, it blossoms
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Tulip is a daily flower, it blossoms
+As it is sunset and Iris is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Sun: Evening
+As it is evening and Rose is a daily flower, it closes
+As it is evening and Matiola is not a daily flower, it blossoms
+As it is evening and Sunflower is a daily flower, it closes
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Tulip is a daily flower, it closes
+As it is evening and Iris is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Matiola
+Night butterfly visits Moonflower
+Night butterfly visits Iris
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+Julia goes for a walk
+Julia visits Matiola, sniffed it and took a photo
+Julia visits Moonflower, sniffed it and took a photo
+Julia visits Iris, sniffed it and took a photo
+Julia visits Lotus, sniffed it and took a photo
+Julia visits Orchid, sniffed it and took a photo
+_______________________________________ Monday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Rose is a daily flower, it blossoms
+As it is sunrise and Matiola is not a daily flower, it closes
+As it is sunrise and Sunflower is a daily flower, it blossoms
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Tulip is a daily flower, it blossoms
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Rose
+Bee visits Sunflower
+Bee visits Tulip
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes home
+Sun: Morning
+As it is morning and Rose is a daily flower, it closes petals because of heat
+As it is morning and Matiola is not a daily flower, its petals are still closed
+As it is morning and Sunflower is a daily flower, it closes petals because of heat
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+As it is morning and Tulip is a daily flower, it closes petals because of heat
+As it is morning and Iris is not a daily flower, its petals are still closed
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Rose is a daily flower, it blossoms
+As it is sunset and Matiola is not a daily flower, its petals are still closed
+As it is sunset and Sunflower is a daily flower, it blossoms
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Tulip is a daily flower, it blossoms
+As it is sunset and Iris is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes for a walk
+Julia visits Rose, sniffed it and took a photo
+Julia visits Sunflower, sniffed it and took a photo
+Julia visits Tulip, sniffed it and took a photo
+Julia visits Peoni, sniffed it and took a photo
+Julia visits Lyli, sniffed it and took a photo
+Sun: Evening
+As it is evening and Rose is a daily flower, it closes
+As it is evening and Matiola is not a daily flower, it blossoms
+As it is evening and Sunflower is a daily flower, it closes
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Tulip is a daily flower, it closes
+As it is evening and Iris is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Matiola
+Night butterfly visits Moonflower
+Night butterfly visits Iris
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+Julia goes home
+_______________________________________ Tuesday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Rose is a daily flower, it blossoms
+As it is sunrise and Matiola is not a daily flower, it closes
+As it is sunrise and Sunflower is a daily flower, it blossoms
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Tulip is a daily flower, it blossoms
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Rose
+Bee visits Sunflower
+Bee visits Tulip
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes for a walk
+Julia visits Rose, sniffed it and took a photo
+Julia visits Sunflower, sniffed it and took a photo
+Julia visits Tulip, sniffed it and took a photo
+Julia visits Peoni, sniffed it and took a photo
+Julia visits Lyli, sniffed it and took a photo
+Sun: Morning
+As it is morning and Rose is a daily flower, it closes petals because of heat
+As it is morning and Matiola is not a daily flower, its petals are still closed
+As it is morning and Sunflower is a daily flower, it closes petals because of heat
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+As it is morning and Tulip is a daily flower, it closes petals because of heat
+As it is morning and Iris is not a daily flower, its petals are still closed
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Rose is a daily flower, it blossoms
+As it is sunset and Matiola is not a daily flower, its petals are still closed
+As it is sunset and Sunflower is a daily flower, it blossoms
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Tulip is a daily flower, it blossoms
+As it is sunset and Iris is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes home
+Sun: Evening
+As it is evening and Rose is a daily flower, it closes
+As it is evening and Matiola is not a daily flower, it blossoms
+As it is evening and Sunflower is a daily flower, it closes
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Tulip is a daily flower, it closes
+As it is evening and Iris is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Matiola
+Night butterfly visits Moonflower
+Night butterfly visits Iris
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+_______________________________________ Wednesday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Rose is a daily flower, it blossoms
+As it is sunrise and Matiola is not a daily flower, it closes
+As it is sunrise and Sunflower is a daily flower, it blossoms
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Tulip is a daily flower, it blossoms
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Rose
+Bee visits Sunflower
+Bee visits Tulip
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes for a walk
+Julia visits Rose, sniffed it and took a photo
+Julia visits Sunflower, sniffed it and took a photo
+Julia visits Tulip, sniffed it and took a photo
+Julia visits Peoni, sniffed it and took a photo
+Julia visits Lyli, sniffed it and took a photo
+Sun: Morning
+As it is morning and Rose is a daily flower, it closes petals because of heat
+As it is morning and Matiola is not a daily flower, its petals are still closed
+As it is morning and Sunflower is a daily flower, it closes petals because of heat
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+As it is morning and Tulip is a daily flower, it closes petals because of heat
+As it is morning and Iris is not a daily flower, its petals are still closed
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Rose is a daily flower, it blossoms
+As it is sunset and Matiola is not a daily flower, its petals are still closed
+As it is sunset and Sunflower is a daily flower, it blossoms
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Tulip is a daily flower, it blossoms
+As it is sunset and Iris is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes home
+Sun: Evening
+As it is evening and Rose is a daily flower, it closes
+As it is evening and Matiola is not a daily flower, it blossoms
+As it is evening and Sunflower is a daily flower, it closes
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Tulip is a daily flower, it closes
+As it is evening and Iris is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Matiola
+Night butterfly visits Moonflower
+Night butterfly visits Iris
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+_______________________________________ Thursday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Rose is a daily flower, it blossoms
+As it is sunrise and Matiola is not a daily flower, it closes
+As it is sunrise and Sunflower is a daily flower, it blossoms
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Tulip is a daily flower, it blossoms
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Rose
+Bee visits Sunflower
+Bee visits Tulip
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes for a walk
+Julia visits Rose, sniffed it and took a photo
+Julia visits Sunflower, sniffed it and took a photo
+Julia visits Tulip, sniffed it and took a photo
+Julia visits Peoni, sniffed it and took a photo
+Julia visits Lyli, sniffed it and took a photo
+Sun: Morning
+As it is morning and Rose is a daily flower, it closes petals because of heat
+As it is morning and Matiola is not a daily flower, its petals are still closed
+As it is morning and Sunflower is a daily flower, it closes petals because of heat
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+As it is morning and Tulip is a daily flower, it closes petals because of heat
+As it is morning and Iris is not a daily flower, its petals are still closed
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Rose is a daily flower, it blossoms
+As it is sunset and Matiola is not a daily flower, its petals are still closed
+As it is sunset and Sunflower is a daily flower, it blossoms
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Tulip is a daily flower, it blossoms
+As it is sunset and Iris is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes home
+Sun: Evening
+As it is evening and Rose is a daily flower, it closes
+As it is evening and Matiola is not a daily flower, it blossoms
+As it is evening and Sunflower is a daily flower, it closes
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Tulip is a daily flower, it closes
+As it is evening and Iris is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Matiola
+Night butterfly visits Moonflower
+Night butterfly visits Iris
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+_______________________________________ Friday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Rose is a daily flower, it blossoms
+As it is sunrise and Matiola is not a daily flower, it closes
+As it is sunrise and Sunflower is a daily flower, it blossoms
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Tulip is a daily flower, it blossoms
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Rose
+Bee visits Sunflower
+Bee visits Tulip
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes for a walk
+Julia visits Rose, sniffed it and took a photo
+Julia visits Sunflower, sniffed it and took a photo
+Julia visits Tulip, sniffed it and took a photo
+Julia visits Peoni, sniffed it and took a photo
+Julia visits Lyli, sniffed it and took a photo
+Sun: Morning
+As it is morning and Rose is a daily flower, it closes petals because of heat
+As it is morning and Matiola is not a daily flower, its petals are still closed
+As it is morning and Sunflower is a daily flower, it closes petals because of heat
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+As it is morning and Tulip is a daily flower, it closes petals because of heat
+As it is morning and Iris is not a daily flower, its petals are still closed
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Rose is a daily flower, it blossoms
+As it is sunset and Matiola is not a daily flower, its petals are still closed
+As it is sunset and Sunflower is a daily flower, it blossoms
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Tulip is a daily flower, it blossoms
+As it is sunset and Iris is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes home
+Sun: Evening
+As it is evening and Rose is a daily flower, it closes
+As it is evening and Matiola is not a daily flower, it blossoms
+As it is evening and Sunflower is a daily flower, it closes
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Tulip is a daily flower, it closes
+As it is evening and Iris is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Matiola
+Night butterfly visits Moonflower
+Night butterfly visits Iris
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+_______________________________________ Saturday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Rose is a daily flower, it blossoms
+As it is sunrise and Matiola is not a daily flower, it closes
+As it is sunrise and Sunflower is a daily flower, it blossoms
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Tulip is a daily flower, it blossoms
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Rose
+Bee visits Sunflower
+Bee visits Tulip
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Sun: Morning
+As it is morning and Rose is a daily flower, it closes petals because of heat
+As it is morning and Matiola is not a daily flower, its petals are still closed
+As it is morning and Sunflower is a daily flower, it closes petals because of heat
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+As it is morning and Tulip is a daily flower, it closes petals because of heat
+As it is morning and Iris is not a daily flower, its petals are still closed
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Rose is a daily flower, it blossoms
+As it is sunset and Matiola is not a daily flower, its petals are still closed
+As it is sunset and Sunflower is a daily flower, it blossoms
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Tulip is a daily flower, it blossoms
+As it is sunset and Iris is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Sun: Evening
+As it is evening and Rose is a daily flower, it closes
+As it is evening and Matiola is not a daily flower, it blossoms
+As it is evening and Sunflower is a daily flower, it closes
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Tulip is a daily flower, it closes
+As it is evening and Iris is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Matiola
+Night butterfly visits Moonflower
+Night butterfly visits Iris
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+Julia goes for a walk
+Julia visits Matiola, sniffed it and took a photo
+Julia visits Moonflower, sniffed it and took a photo
+Julia visits Iris, sniffed it and took a photo
+Julia visits Lotus, sniffed it and took a photo
+Julia visits Orchid, sniffed it and took a photo
+_______________________________________ Sunday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Rose is a daily flower, it blossoms
+As it is sunrise and Matiola is not a daily flower, it closes
+As it is sunrise and Sunflower is a daily flower, it blossoms
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Tulip is a daily flower, it blossoms
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Rose
+Bee visits Sunflower
+Bee visits Tulip
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes home
+Sun: Morning
+As it is morning and Rose is a daily flower, it closes petals because of heat
+Matiola dried up!
+As it is morning and Sunflower is a daily flower, it closes petals because of heat
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+As it is morning and Tulip is a daily flower, it closes petals because of heat
+As it is morning and Iris is not a daily flower, its petals are still closed
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Rose is a daily flower, it blossoms
+As it is sunset and Sunflower is a daily flower, it blossoms
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Tulip is a daily flower, it blossoms
+As it is sunset and Iris is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Sun: Evening
+As it is evening and Rose is a daily flower, it closes
+As it is evening and Sunflower is a daily flower, it closes
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Tulip is a daily flower, it closes
+As it is evening and Iris is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Moonflower
+Night butterfly visits Iris
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+Julia goes for a walk
+Julia visits Moonflower, sniffed it and took a photo
+Julia visits Iris, sniffed it and took a photo
+Julia visits Lotus, sniffed it and took a photo
+Julia visits Orchid, sniffed it and took a photo
+_______________________________________ Monday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Rose is a daily flower, it blossoms
+Sunflower dried up!
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Tulip is a daily flower, it blossoms
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Rose
+Bee visits Tulip
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes home
+Sun: Morning
+As it is morning and Rose is a daily flower, it closes petals because of heat
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+As it is morning and Tulip is a daily flower, it closes petals because of heat
+As it is morning and Iris is not a daily flower, its petals are still closed
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Rose is a daily flower, it blossoms
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Tulip is a daily flower, it blossoms
+As it is sunset and Iris is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes for a walk
+Julia visits Rose, sniffed it and took a photo
+Julia visits Tulip, sniffed it and took a photo
+Julia visits Peoni, sniffed it and took a photo
+Julia visits Lyli, sniffed it and took a photo
+Sun: Evening
+As it is evening and Rose is a daily flower, it closes
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Tulip is a daily flower, it closes
+As it is evening and Iris is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Moonflower
+Night butterfly visits Iris
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+Julia goes home
+_______________________________________ Tuesday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Rose is a daily flower, it blossoms
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Tulip is a daily flower, it blossoms
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Rose
+Bee visits Tulip
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes for a walk
+Julia visits Rose, sniffed it and took a photo
+Julia visits Tulip, sniffed it and took a photo
+Julia visits Peoni, sniffed it and took a photo
+Julia visits Lyli, sniffed it and took a photo
+Sun: Morning
+As it is morning and Rose is a daily flower, it closes petals because of heat
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+As it is morning and Tulip is a daily flower, it closes petals because of heat
+As it is morning and Iris is not a daily flower, its petals are still closed
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Rose is a daily flower, it blossoms
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Tulip is a daily flower, it blossoms
+As it is sunset and Iris is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes home
+Sun: Evening
+As it is evening and Rose is a daily flower, it closes
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Tulip is a daily flower, it closes
+As it is evening and Iris is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Moonflower
+Night butterfly visits Iris
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+_______________________________________ Wednesday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Rose is a daily flower, it blossoms
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Tulip is a daily flower, it blossoms
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Rose
+Bee visits Tulip
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes for a walk
+Julia visits Rose, sniffed it and took a photo
+Julia visits Tulip, sniffed it and took a photo
+Julia visits Peoni, sniffed it and took a photo
+Julia visits Lyli, sniffed it and took a photo
+Sun: Morning
+As it is morning and Rose is a daily flower, it closes petals because of heat
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+As it is morning and Tulip is a daily flower, it closes petals because of heat
+As it is morning and Iris is not a daily flower, its petals are still closed
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Rose is a daily flower, it blossoms
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Tulip is a daily flower, it blossoms
+As it is sunset and Iris is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes home
+Sun: Evening
+As it is evening and Rose is a daily flower, it closes
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Tulip is a daily flower, it closes
+As it is evening and Iris is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Moonflower
+Night butterfly visits Iris
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+_______________________________________ Thursday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Rose is a daily flower, it blossoms
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Tulip is a daily flower, it blossoms
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Rose
+Bee visits Tulip
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes for a walk
+Julia visits Rose, sniffed it and took a photo
+Julia visits Tulip, sniffed it and took a photo
+Julia visits Peoni, sniffed it and took a photo
+Julia visits Lyli, sniffed it and took a photo
+Sun: Morning
+As it is morning and Rose is a daily flower, it closes petals because of heat
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+As it is morning and Tulip is a daily flower, it closes petals because of heat
+As it is morning and Iris is not a daily flower, its petals are still closed
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Rose is a daily flower, it blossoms
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Tulip is a daily flower, it blossoms
+As it is sunset and Iris is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes home
+Sun: Evening
+As it is evening and Rose is a daily flower, it closes
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Tulip is a daily flower, it closes
+As it is evening and Iris is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Moonflower
+Night butterfly visits Iris
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+_______________________________________ Friday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Rose is a daily flower, it blossoms
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Tulip is a daily flower, it blossoms
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Rose
+Bee visits Tulip
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes for a walk
+Julia visits Rose, sniffed it and took a photo
+Julia visits Tulip, sniffed it and took a photo
+Julia visits Peoni, sniffed it and took a photo
+Julia visits Lyli, sniffed it and took a photo
+Sun: Morning
+As it is morning and Rose is a daily flower, it closes petals because of heat
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+As it is morning and Tulip is a daily flower, it closes petals because of heat
+As it is morning and Iris is not a daily flower, its petals are still closed
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Rose is a daily flower, it blossoms
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Tulip is a daily flower, it blossoms
+As it is sunset and Iris is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes home
+Sun: Evening
+As it is evening and Rose is a daily flower, it closes
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Tulip is a daily flower, it closes
+As it is evening and Iris is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Moonflower
+Night butterfly visits Iris
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+_______________________________________ Saturday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Rose is a daily flower, it blossoms
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Tulip is a daily flower, it blossoms
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Rose
+Bee visits Tulip
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Sun: Morning
+As it is morning and Rose is a daily flower, it closes petals because of heat
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+As it is morning and Tulip is a daily flower, it closes petals because of heat
+As it is morning and Iris is not a daily flower, its petals are still closed
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Rose is a daily flower, it blossoms
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Tulip is a daily flower, it blossoms
+As it is sunset and Iris is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Sun: Evening
+As it is evening and Rose is a daily flower, it closes
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Tulip is a daily flower, it closes
+As it is evening and Iris is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Moonflower
+Night butterfly visits Iris
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+Julia goes for a walk
+Julia visits Moonflower, sniffed it and took a photo
+Julia visits Iris, sniffed it and took a photo
+Julia visits Lotus, sniffed it and took a photo
+Julia visits Orchid, sniffed it and took a photo
+_______________________________________ Sunday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Rose is a daily flower, it blossoms
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Tulip is a daily flower, it blossoms
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Rose
+Bee visits Tulip
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes home
+Sun: Morning
+As it is morning and Rose is a daily flower, it closes petals because of heat
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+As it is morning and Tulip is a daily flower, it closes petals because of heat
+As it is morning and Iris is not a daily flower, its petals are still closed
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Rose is a daily flower, it blossoms
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Tulip is a daily flower, it blossoms
+As it is sunset and Iris is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Sun: Evening
+As it is evening and Rose is a daily flower, it closes
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Tulip is a daily flower, it closes
+As it is evening and Iris is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Moonflower
+Night butterfly visits Iris
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+Julia goes for a walk
+Julia visits Moonflower, sniffed it and took a photo
+Julia visits Iris, sniffed it and took a photo
+Julia visits Lotus, sniffed it and took a photo
+Julia visits Orchid, sniffed it and took a photo
+_______________________________________ Monday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Rose is a daily flower, it blossoms
+As it is sunrise and Moonflower is not a daily flower, it closes
+Tulip dried up!
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Rose
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes home
+Sun: Morning
+As it is morning and Rose is a daily flower, it closes petals because of heat
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+As it is morning and Iris is not a daily flower, its petals are still closed
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Rose is a daily flower, it blossoms
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Iris is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes for a walk
+Julia visits Rose, sniffed it and took a photo
+Julia visits Peoni, sniffed it and took a photo
+Julia visits Lyli, sniffed it and took a photo
+Sun: Evening
+As it is evening and Rose is a daily flower, it closes
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Iris is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Moonflower
+Night butterfly visits Iris
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+Julia goes home
+_______________________________________ Tuesday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Rose is a daily flower, it blossoms
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Rose
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes for a walk
+Julia visits Rose, sniffed it and took a photo
+Julia visits Peoni, sniffed it and took a photo
+Julia visits Lyli, sniffed it and took a photo
+Sun: Morning
+As it is morning and Rose is a daily flower, it closes petals because of heat
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+As it is morning and Iris is not a daily flower, its petals are still closed
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Rose is a daily flower, it blossoms
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Iris is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes home
+Sun: Evening
+As it is evening and Rose is a daily flower, it closes
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Iris is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Moonflower
+Night butterfly visits Iris
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+_______________________________________ Wednesday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Rose is a daily flower, it blossoms
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Rose
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes for a walk
+Julia visits Rose, sniffed it and took a photo
+Julia visits Peoni, sniffed it and took a photo
+Julia visits Lyli, sniffed it and took a photo
+Sun: Morning
+As it is morning and Rose is a daily flower, it closes petals because of heat
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+As it is morning and Iris is not a daily flower, its petals are still closed
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Rose is a daily flower, it blossoms
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Iris is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes home
+Sun: Evening
+As it is evening and Rose is a daily flower, it closes
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Iris is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Moonflower
+Night butterfly visits Iris
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+_______________________________________ Thursday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Rose is a daily flower, it blossoms
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Rose
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes for a walk
+Julia visits Rose, sniffed it and took a photo
+Julia visits Peoni, sniffed it and took a photo
+Julia visits Lyli, sniffed it and took a photo
+Sun: Morning
+As it is morning and Rose is a daily flower, it closes petals because of heat
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+As it is morning and Iris is not a daily flower, its petals are still closed
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Rose is a daily flower, it blossoms
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Iris is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes home
+Sun: Evening
+As it is evening and Rose is a daily flower, it closes
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Iris is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Moonflower
+Night butterfly visits Iris
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+_______________________________________ Friday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Rose is a daily flower, it blossoms
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Rose
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes for a walk
+Julia visits Rose, sniffed it and took a photo
+Julia visits Peoni, sniffed it and took a photo
+Julia visits Lyli, sniffed it and took a photo
+Sun: Morning
+As it is morning and Rose is a daily flower, it closes petals because of heat
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+As it is morning and Iris is not a daily flower, its petals are still closed
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Rose is a daily flower, it blossoms
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Iris is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes home
+Sun: Evening
+As it is evening and Rose is a daily flower, it closes
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Iris is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Moonflower
+Night butterfly visits Iris
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+_______________________________________ Saturday starts ___________________________________
+Sun: Sunrise
+Rose dried up!
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Iris is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Sun: Morning
+As it is morning and Moonflower is not a daily flower, its petals are still closed
+Iris dried up!
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Moonflower is not a daily flower, its petals are still closed
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Sun: Evening
+As it is evening and Moonflower is not a daily flower, it blossoms
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Moonflower
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+Julia goes for a walk
+Julia visits Moonflower, sniffed it and took a photo
+Julia visits Lotus, sniffed it and took a photo
+Julia visits Orchid, sniffed it and took a photo
+_______________________________________ Sunday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Moonflower is not a daily flower, it closes
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes home
+Sun: Morning
+Moonflower dried up!
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Sun: Evening
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+Julia goes for a walk
+Julia visits Lotus, sniffed it and took a photo
+Julia visits Orchid, sniffed it and took a photo
+_______________________________________ Monday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes home
+Sun: Morning
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes for a walk
+Julia visits Peoni, sniffed it and took a photo
+Julia visits Lyli, sniffed it and took a photo
+Sun: Evening
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+Julia goes home
+_______________________________________ Tuesday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes for a walk
+Julia visits Peoni, sniffed it and took a photo
+Julia visits Lyli, sniffed it and took a photo
+Sun: Morning
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes home
+Sun: Evening
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+_______________________________________ Wednesday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes for a walk
+Julia visits Peoni, sniffed it and took a photo
+Julia visits Lyli, sniffed it and took a photo
+Sun: Morning
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes home
+Sun: Evening
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+_______________________________________ Thursday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes for a walk
+Julia visits Peoni, sniffed it and took a photo
+Julia visits Lyli, sniffed it and took a photo
+Sun: Morning
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes home
+Sun: Evening
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+_______________________________________ Friday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes for a walk
+Julia visits Peoni, sniffed it and took a photo
+Julia visits Lyli, sniffed it and took a photo
+Sun: Morning
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes home
+Sun: Evening
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+_______________________________________ Saturday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Sun: Morning
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Sun: Evening
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+Julia goes for a walk
+Julia visits Lotus, sniffed it and took a photo
+Julia visits Orchid, sniffed it and took a photo
+_______________________________________ Sunday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes home
+Sun: Morning
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Sun: Evening
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+Julia goes for a walk
+Julia visits Lotus, sniffed it and took a photo
+Julia visits Orchid, sniffed it and took a photo
+_______________________________________ Monday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Peoni is a daily flower, it blossoms
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Lyli is a daily flower, it blossoms
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Bee visits Peoni
+Bee visits Lyli
+Night butterfly flies to sleep
+Julia goes home
+Sun: Morning
+As it is morning and Peoni is a daily flower, it closes petals because of heat
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Lyli is a daily flower, it closes petals because of heat
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Peoni is a daily flower, it blossoms
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Lyli is a daily flower, it blossoms
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes for a walk
+Julia visits Peoni, sniffed it and took a photo
+Julia visits Lyli, sniffed it and took a photo
+Sun: Evening
+As it is evening and Peoni is a daily flower, it closes
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Lyli is a daily flower, it closes
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+Julia goes home
+_______________________________________ Tuesday starts ___________________________________
+Sun: Sunrise
+Peoni dried up!
+As it is sunrise and Lotus is not a daily flower, it closes
+Lyli dried up!
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Night butterfly flies to sleep
+Julia goes for a walk
+Sun: Morning
+As it is morning and Lotus is not a daily flower, its petals are still closed
+As it is morning and Orchid is not a daily flower, its petals are still closed
+Sun: Sunset
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+As it is sunset and Orchid is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes home
+Sun: Evening
+As it is evening and Lotus is not a daily flower, it blossoms
+As it is evening and Orchid is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Lotus
+Night butterfly visits Orchid
+_______________________________________ Wednesday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Lotus is not a daily flower, it closes
+As it is sunrise and Orchid is not a daily flower, it closes
+Bee starts to fly
+Night butterfly flies to sleep
+Julia goes for a walk
+Sun: Morning
+As it is morning and Lotus is not a daily flower, its petals are still closed
+Orchid dried up!
+Sun: Sunset
+As it is sunset and Lotus is not a daily flower, its petals are still closed
+Bee flies to sleep
+Julia goes home
+Sun: Evening
+As it is evening and Lotus is not a daily flower, it blossoms
+Night butterfly starts to fly
+Night butterfly visits Lotus
+_______________________________________ Thursday starts ___________________________________
+Sun: Sunrise
+As it is sunrise and Lotus is not a daily flower, it closes
+Bee starts to fly
+Night butterfly flies to sleep
+Julia goes for a walk
+Sun: Morning
+Lotus dried up!
+Sun: Sunset
+Bee flies to sleep
+Julia goes home
+Sun: Evening
+Night butterfly starts to fly
+_______________________________________ Friday starts ___________________________________
+Sun: Sunrise
+Bee starts to fly
+Night butterfly flies to sleep
+Julia goes for a walk
+Sun: Morning
+Sun: Sunset
+Bee flies to sleep
+Julia goes home
+Sun: Evening
+Night butterfly starts to fly
+***************************************************************************************
+Bee visited 133 flowers during these days
+Night butterfly visited 141 flowers during these days
+Girl visited 133 flowers during these days
+***************************************************************************************
