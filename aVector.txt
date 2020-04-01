@@ -164,20 +164,5 @@ namespace Calculator
             }
         }
     }
-    static class VectorExtension
-    {
-        public static Vector Normalization(this Vector v) //нормування вектора
-        {
-            return new Vector(v.X / v.Length, v.Y / v.Length, v.Z / v.Length);
-        }
-        public static double Projection(this Vector v1, Vector v2) //проекція вектора на вектор
-        {
-            return (v1 * v2) / v2.Length;
-        }
-        public static double AreaTriangle(this Vector v1, Vector v2) //площа трикутника побудованого на векторах
-        {
-            Vector v = v1.VectorProduct(v2);
-            return v.Length * 0.5;
-        }
-    }
+   
 }
