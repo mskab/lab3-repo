@@ -1,0 +1,185 @@
+#Код
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Calculator
+{
+    class Vector
+    {
+        private double x;
+        private double y;
+        private double z;
+        private double length;
+        public Vector()
+        {
+            x = 0.0;
+            y = 0.0;
+            z = 0.0;
+            CalcLength();
+        }
+        public Vector(double a, double b, double c)
+        {
+            x = a;
+            y = b;
+            z = c;
+            CalcLength();
+        }
+        private void CalcLength()
+        {
+            length = Math.Sqrt(Math.Pow(x, 2) + Math.Pow(y, 2) + Math.Pow(z, 2));
+        }
+        public double X
+        {
+            get
+            {
+                return x;
+            }
+            set
+            {
+                x = value;
+                CalcLength();
+            }
+        }
+        public double Y
+        {
+            get
+            {
+                return y;
+            }
+            set
+            {
+                y = value;
+                CalcLength();
+            }
+        }
+        public double Z
+        {
+            get
+            {
+                return z;
+            }
+            set
+            {
+                z = value;
+                CalcLength();
+            }
+        }
+        public double Length
+        {
+            get
+            {
+                return length;
+            }
+        }
+
+        public static Vector operator +(Vector v1, Vector v2) //додавання двох векторів
+        {
+            return new Vector(v1.X + v2.X, v1.Y + v2.Y, v1.Z + v2.Z);
+        }
+        public static Vector operator -(Vector v1, Vector v2) //віднімання двох векторів
+        {
+            return new Vector(v1.X - v2.X, v1.Y - v2.Y, v1.Z - v2.Z);
+        }
+        public static double operator *(Vector v1, Vector v2) //скалярний добуток векторів
+        {
+            return (v1.X * v2.X + v1.Y * v2.Y + v1.Z * v2.Z);
+        }
+        public static Vector operator *(double scalar, Vector v) //множення вектора на число
+        {
+            return new Vector(scalar * v.X, scalar * v.Y, scalar * v.Z);
+        }
+        public double Angle(Vector v) //кут між веткторами
+        {
+            return (this * v) / (this.Length * v.Length);
+        }
+        public Vector VectorProduct(Vector v) //векторний добуток векторів
+        {
+            return new Vector(Y * v.Z - Z * v.Y, Z * v.X - X * v.Z, X * v.Y - Y * v.X);
+        }
+        public double MixedProduct(Vector v2, Vector v3) //мішаний добуток векторів
+        {
+            Vector v = v2.VectorProduct(v3);
+            return this * v;
+        }
+        public static bool operator ==(Vector v1, Vector v2)
+        {
+            return (v1.X == v2.X && v1.Y == v2.Y && v1.Z == v2.Z);
+        }
+        public static bool operator !=(Vector v1, Vector v2)
+        {
+            return (!(v1 == v2));
+        }
+        public bool Equals(Vector v)
+        {
+            return this == v;
+        }
+        public override bool Equals(object obj)
+        {
+            return Equals(obj as Vector);
+        }
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+        public override string ToString()
+        {
+            return String.Format("({0}; {1}; {2})", Math.Round(x,2), Math.Round(y,2), Math.Round(z,2));
+        }
+        public double this[int index] //метод індексатор
+        {
+            get
+            {
+                switch (index)
+                {
+                    case 0:
+                        return x;
+                    case 1:
+                        return y;
+                    case 2:
+                        return z;
+                    case 3:
+                        return length;
+                    default:
+                        throw new System.IndexOutOfRangeException("The index should be between 0 and 3 inclusive.");
+                }
+            }
+            set
+            {
+                switch (index)
+                {
+                    case 0:
+                        x = value;
+                        break;
+                    case 1:
+                        y = value;
+                        break;
+                    case 2:
+                        z = value;
+                        break;
+                    default:
+                        throw new IndexOutOfRangeException("The index should be between 0 and 2 inclusive.");
+                }
+                CalcLength();
+            }
+        }
+    }
+    static class VectorExtension
+    {
+        public static Vector Normalization(this Vector v) //нормування вектора
+        {
+            return new Vector(v.X / v.Length, v.Y / v.Length, v.Z / v.Length);
+        }
+        public static double Projection(this Vector v1, Vector v2) //проекція вектора на вектор
+        {
+            return (v1 * v2) / v2.Length;
+        }
+        public static double AreaTriangle(this Vector v1, Vector v2) //площа трикутника побудованого на векторах
+        {
+            Vector v = v1.VectorProduct(v2);
+            return v.Length * 0.5;
+        }
+    }
+}
